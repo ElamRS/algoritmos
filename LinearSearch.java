@@ -13,6 +13,6 @@ public class LinearSearch {
 				return i; // O índice do elemento procurado é retornado
 			}
 		}
-		return -1; // Caso o elemento procurado não faça parte da lista -1 é retornado
+		return -1; // Caso o elemento procurado não faça parte da lista, -1 é retornado
 	}
 }
