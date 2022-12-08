@@ -1,7 +1,3 @@
-package challenge;
-
-import java.util.Random;
-
 // O método de busca linear consiste na forma mais simples de se procurar por um elemento em uma lista,
 // Itera-se do início ao fim do vetor e caso o item seja encontrado, o índice é retornado.
 
